@@ -12,7 +12,7 @@ This software allows users to generate SAR images of submarine wakes, facilitati
 ## Installation instructions:
 
 ### Prerequisites
-      1.	MATLAB tool (version 2024 b or later) or MATLAB runtime installer (2024b)
+      1.	MATLAB tool (version 2024b or later) or MATLAB runtime installer (2024b)
       2.	MATLAB run time installer can be downloaded from https://in.mathworks.com/products/compiler/matlab-runtime.html
 ### Download
       Download the software from the SAR_Image_sim folder
